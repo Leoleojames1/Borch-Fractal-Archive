@@ -23,4 +23,4 @@ This repository is an archive for all of my fractal artwork for everyone to down
 src="HammerheadWave3.png"
   alt="Alt text"
   title="Plot Of the Infinite Product of the Product Representation for Sin(pi*x/n)"
-  style="display: inline-block; margin: 0 auto; max-width: 990px">
+  style="display: inline-block; margin: 0 auto; max-width: 980px">
