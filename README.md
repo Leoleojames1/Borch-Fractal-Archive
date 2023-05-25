@@ -8,9 +8,9 @@ This repository is an archive for all of my fractal artwork for everyone to down
 </p>
 
 <p float="left">
-  <img src="C3_RainbowBrot.png" width="330px" />
-  <img src="C2_RainbowBrot.png" width="330px" /> 
-  <img src="D2_RainbowBrot.png" width="330px" />
+  <img src="modbrot.png" width="330px" />
+  <img src="modsin^z(z).png" width="330px" /> 
+  <img src="moz^z.png" width="330px" />
 </p>
 
 <p float="left">
