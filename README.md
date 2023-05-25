@@ -19,32 +19,8 @@ src="D2_RainbowBrot.png"
   title="Plot Of the Infinite Product of the Product Representation for Sin(pi*x/n)"
   style="display: inline-block; margin: 0 auto; max-width: 100px">
 
-<img
-src="C3_RainbowBrot.png"
-  alt="Alt text"
-  title="Plot Of the Infinite Product of the Product Representation for Sin(pi*x/n)"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
-
-<img
-src="C3_RainbowBrot.png"
-  alt="Alt text"
-  title="Plot Of the Infinite Product of the Product Representation for Sin(pi*x/n)"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
-
-<img
-src="C3_RainbowBrot.png"
-  alt="Alt text"
-  title="Plot Of the Infinite Product of the Product Representation for Sin(pi*x/n)"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
-
-<img
-src="C3_RainbowBrot.png"
-  alt="Alt text"
-  title="Plot Of the Infinite Product of the Product Representation for Sin(pi*x/n)"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
-
-<img
-src="C3_RainbowBrot.png"
-  alt="Alt text"
-  title="Plot Of the Infinite Product of the Product Representation for Sin(pi*x/n)"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
+<p float="left">
+  <img src="C3_RainbowBrot.png" width="100" />
+  <img src="C3_RainbowBrot.png" width="100" /> 
+  <img src="C3_RainbowBrot.png" width="100" />
+</p>
