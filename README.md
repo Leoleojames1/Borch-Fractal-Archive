@@ -6,3 +6,21 @@ This repository is an archive for all of my fractal artwork for everyone to down
   <img src="C2_RainbowBrot.png" width="330px" /> 
   <img src="D2_RainbowBrot.png" width="330px" />
 </p>
+
+<p float="left">
+  <img src="C3_RainbowBrot.png" width="330px" />
+  <img src="C2_RainbowBrot.png" width="330px" /> 
+  <img src="D2_RainbowBrot.png" width="330px" />
+</p>
+
+<p float="left">
+  <img src="C3_RainbowBrot.png" width="330px" />
+  <img src="C2_RainbowBrot.png" width="330px" /> 
+  <img src="D2_RainbowBrot.png" width="330px" />
+</p>
+
+<img
+src="HammerheadWave3.png"
+  alt="Alt text"
+  title="Plot Of the Infinite Product of the Product Representation for Sin(pi*x/n)"
+  style="display: inline-block; margin: 0 auto; max-width: 990px">
