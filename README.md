@@ -20,7 +20,7 @@ src="D2_RainbowBrot.png"
   style="display: inline-block; margin: 0 auto; max-width: 100px">
 
 <p float="left">
-  <img src="C3_RainbowBrot.png" width="100px" />
+  <img src="C3_RainbowBrot.png" width="500px" />
   <img src="C3_RainbowBrot.png" width="100px" /> 
   <img src="C3_RainbowBrot.png" width="100px" />
 </p>
