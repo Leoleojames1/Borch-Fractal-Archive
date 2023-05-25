@@ -19,12 +19,6 @@ This repository is an archive for all of my fractal artwork for everyone to down
   <img src="peacock17.png" width="330px" />
 </p>
 
-<img
-src="HammerheadWave3.png"
-  alt="Alt text"
-  title="Plot Of the Infinite Product of the Product Representation for Sin(pi*x/n)"
-  style="display: inline-block; margin: 0 auto; max-width: 990px">
-
 <p float="left">
   <img src="peacock23.png" width="330px" />
   <img src="peacock24.png" width="330px" /> 
@@ -42,3 +36,15 @@ src="HammerheadWave3.png"
   <img src="SinMandelSmooth_2.png" width="330px" /> 
   <img src="z^(sin(log(z))).png" width="330px" />
 </p>
+
+<img
+src="HammerheadWave3.png"
+  alt="Alt text"
+  title="Plot Of the Infinite Product of the Product Representation for Sin(pi*x/n)"
+  style="display: inline-block; margin: 0 auto; max-width: 990px">
+  
+<img
+src="LivRes.png"
+  alt="Alt text"
+  title="Plot Of the Infinite Product of the Product Representation for Sin(pi*x/n)"
+  style="display: inline-block; margin: 0 auto; max-width: 990px">
